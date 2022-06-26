@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		597CEBC6286829AD0004AE58 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597CEBC5286829AD0004AE58 /* Concentration.swift */; };
+		597CEBC828682AFE0004AE58 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597CEBC728682AFE0004AE58 /* Card.swift */; };
 		59D954962865AB8800186E5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D954952865AB8800186E5E /* AppDelegate.swift */; };
 		59D954982865AB8800186E5E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D954972865AB8800186E5E /* SceneDelegate.swift */; };
 		59D9549A2865AB8800186E5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D954992865AB8800186E5E /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		597CEBC5286829AD0004AE58 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		597CEBC728682AFE0004AE58 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		59D954922865AB8800186E5E /* Stanford_Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stanford_Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59D954952865AB8800186E5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		59D954972865AB8800186E5E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 		59D954942865AB8800186E5E /* Stanford_Concentration */ = {
 			isa = PBXGroup;
 			children = (
+				597CEBC5286829AD0004AE58 /* Concentration.swift */,
+				597CEBC728682AFE0004AE58 /* Card.swift */,
 				59D954A92865AD9F00186E5E /* Supporting files */,
 				59D954992865AB8800186E5E /* ViewController.swift */,
 				59D9549B2865AB8800186E5E /* Main.storyboard */,
@@ -147,6 +153,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				59D9549A2865AB8800186E5E /* ViewController.swift in Sources */,
+				597CEBC6286829AD0004AE58 /* Concentration.swift in Sources */,
+				597CEBC828682AFE0004AE58 /* Card.swift in Sources */,
 				59D954962865AB8800186E5E /* AppDelegate.swift in Sources */,
 				59D954982865AB8800186E5E /* SceneDelegate.swift in Sources */,
 			);
